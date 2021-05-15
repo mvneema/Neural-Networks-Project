@@ -1,4 +1,4 @@
-# Neural-Networks-Project
+# The Street View House Numbers Neural-Networks-Project
 # Data Description: 
 # The Street View House Numbers (SVHN) Dataset 
 SVHN is a real-world image dataset for developing machine learning and object
